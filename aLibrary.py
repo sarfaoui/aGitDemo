@@ -1,4 +1,4 @@
-from ROOT import * 
+from ROOT import TH1D 
 
 
 def CreateHistrogram() :
