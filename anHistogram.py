@@ -1,5 +1,4 @@
-from ROOT import *
+from aLibrary import *
 
 
-
-histo = TH1D("histo","an histogram" ,100,0,100)
+histo =  CreateHistrogram() 
